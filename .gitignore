@@ -1,0 +1,14 @@
+/build/
+/out/
+/.vs/
+
+CMakeCache.txt
+CMakeFiles/
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+*.obj
+*.exe
+*.pdb
